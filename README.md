@@ -85,7 +85,7 @@ weighted avg       0.67      0.65      0.65      1561
 ## Struktur Folder
 - Dataset: data_bank_marketing_campaign.csv
 - Jupyter Notebooks: capstone_modul3.ipynb
-- Model terbaik yang disimpan: model_randomforest_v1.sav
+- Model terbaik yang disimpan: model_randomforest_v1.sav.zip
 - File persentasi: Potensial_nasabah_deposito.pptx
 
 Silakan buka file capstone_modul3.ipynb untuk melihat seluruh proses dari data cleaning sampai evaluasi model.
