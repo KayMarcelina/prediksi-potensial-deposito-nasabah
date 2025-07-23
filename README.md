@@ -13,6 +13,7 @@ Membantu tim marketing bank agar bisa:
 ## Dataset
 
 Dataset ini berasal dari  Bank Marketing Campaign dataset. Yang terdiri dari beberapa kolom:
+
 **Customer profile**
 - age
 - job
