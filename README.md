@@ -64,7 +64,7 @@ Dataset ini berasal dari  Bank Marketing Campaign dataset. Yang terdiri dari beb
 
 ## Hasil Evaluasi
 
-Confusion Matrix with Threshold 0.55:
+Confusion Matrix with Threshold 0.35:
  [[430 385]
  [157 589]]
 
